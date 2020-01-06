@@ -1,0 +1,90 @@
+[
+    {
+        "id": 2,
+        "name": "Avondale Brewing Co",
+        "brewery_type": "micro",
+        "street": "201 41st St S",
+        "city": "Birmingham",
+        "state": "Alabama"
+    },
+    {
+        "id": 44,
+        "name": "Trim Tab Brewing",
+        "brewery_type": "micro",
+        "street": "2721 5th Ave S",
+        "city": "Birmingham",
+        "state": "Alabama"
+    },
+    {
+        "id": 46,
+        "name": "Yellowhammer Brewery",
+        "brewery_type": "micro",
+        "street": "2600 Clinton Ave W",
+        "city": "Huntsville",
+        "state": "Alabama"
+    },
+    {
+        "id": 55,
+        "name": "Bearpaw River Brewing Co",
+        "brewery_type": "micro",
+        "street": "4605 E Palmer Wasilla Hwy",
+        "city": "Wasilla",
+        "state": "Alaska"
+    },
+    {
+        "id": 76,
+        "name": "King Street Brewing Co",
+        "brewery_type": "micro",
+        "street": "9050 King Street",
+        "city": "Anchorage",
+        "state": "Alaska"
+    },
+    {
+        "id": 94,
+        "name": "1912 Brewing",
+        "brewery_type": "micro",
+        "street": "2045 N Forbes Blvd Ste 105",
+        "city": "Tucson",
+        "state": "Arizona"
+    },
+    {
+        "id": 98,
+        "name": "Bad Water Brewing",
+        "brewery_type": "contract",
+        "street": "4216 N Brown Ave",
+        "city": "Scottsdale",
+        "state": "Arizona"
+    },
+    {
+        "id": 104,
+        "name": "BJs Restaurant \u0026 Brewery - Chandler",
+        "brewery_type": "brewpub",
+        "street": "3155 W Chandler Blvd",
+        "city": "Chandler",
+        "state": "Arizona"
+    },
+    {
+        "id": 107,
+        "name": "BlackRock Brewers",
+        "brewery_type": "micro",
+        "street": "1664 S Research Loop Ste 200",
+        "city": "Tucson",
+        "state": "Arizona"
+    },
+    {
+        "id": 127,
+        "name": "Dragoon Brewing Co",
+        "brewery_type": "micro",
+        "street": "1859 W Grant Rd Ste 111",
+        "city": "Tucson",
+        "state": "Arizona"
+    },
+    {
+        "id": 253,
+        "name": "Rapp's Barren Brewing Company",
+        "brewery_type": "micro",
+        "street": "1343 E 9th St",
+        "city": "Mountain Home",
+        "state": "Arkansas"
+    }
+]
